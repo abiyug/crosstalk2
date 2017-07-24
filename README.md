@@ -10,4 +10,6 @@ The frame work for this app uses the following html widgets:
 . Data Table - to render the raw data table
 . gamer of graphics 2 (ggplot2) - to render the bar charts
 
-For more information, take a look at the reveal js markdown presentation. If you have further question drop me an e-mail or contact me @abiyugiday on twitter.
+For more information, take a look at the reveal js markdown presentation here (https://abiyug.github.io/crosstalk2/BrickMortarDashbrd.html#/), and the link to the app is here (https://abiyug.github.io/crosstalk2/flexdashMeraki.html) 
+
+If you have further question drop me an e-mail or contact me @abiyugiday on twitter.
